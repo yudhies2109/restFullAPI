@@ -115,17 +115,6 @@ Jalankan migration untuk membuat tabel database:
 npx prisma migrate dev
 ```
 
-Jika diminta nama migration, isi misalnya:
-
-```txt
-init
-```
-
-Opsional, buka Prisma Studio untuk melihat data:
-
-```bash
-npx prisma studio
-```
 
 ## 6. Jalankan Server
 
